@@ -19,7 +19,9 @@ This is a fork of [chai's go-opencv](https://github.com/chai2010/opencv), which 
 
 ### Linux & Mac OS X
 
-Install Go and OpenCV, you might want to install both of them via `apt-get` or `homebrew`.
+1. Install Go and OpenCV, you might want to install both of them via `apt-get` or `homebrew`(Ubuntu: sudo  apt-get install libopencv-dev).
+
+2. Install this package:
 
 ```
 go get github.com/lazywei/go-opencv
